@@ -4,6 +4,7 @@ import 'package:products/card0.dart';
 import 'package:products/card1.dart';
 import 'package:products/card2.dart';
 import 'package:products/card3.dart';
+import 'package:products/screens/login_screen.dart';
 // 1
 class Home extends StatefulWidget {
   const Home({super.key});
@@ -20,6 +21,7 @@ class Home extends StatefulWidget {
      static List<Widget> pages = <Widget>[
       // ignore: todo
       //TODO: Replace with Home
+      const LoginPage(),
       const Card0(),
       //Container(color: Colors.blueGrey,),
       // ignore: todo
@@ -32,7 +34,7 @@ class Home extends StatefulWidget {
       //Container(color: Colors.teal,),
       // ignore: todo
       //TODO: Replace with Card4
-      const Card3(),
+      //const Card3(),
      ];
 
      /*void _onItemTapped(int index) {
