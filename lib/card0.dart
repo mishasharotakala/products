@@ -78,7 +78,7 @@ class _Card0State extends State<Card0> {
                         color: Colors.black.withOpacity(0.3),
                         spreadRadius: 5,
                         blurRadius: 10,
-                        offset: Offset(0, 5),
+                        offset: const Offset(0, 5),
                       ),
                     ],
                   ),
