@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:products/card0.dart';
 import 'package:products/card1.dart';
 import 'package:products/card2.dart';
-import 'package:products/card3.dart';
 import 'package:products/screens/login_screen.dart';
 // 1
 class Home extends StatefulWidget {

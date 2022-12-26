@@ -101,6 +101,10 @@ flutter:
     - family: VeganStylePersonalUse
       fonts:
         - asset: assets/fonts/VeganStylePersonalUse-5Y58.ttf
+
+    - family: BebasNeue
+      fonts:
+        - asset: assets/fonts/BebasNeue-Regular.ttf
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
